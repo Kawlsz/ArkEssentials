@@ -1,0 +1,10 @@
+name: ArkEssentials
+main: me.ArkEssentials.SpigotMain
+version: 0.0.1
+author: "iKawlsz_"
+commands:
+  fly:
+    aliases: ["voar"]
+  gamemode:
+    aliases: ["gm"]
+
